@@ -66,3 +66,4 @@ with open("./gaodengzhuanke_xuexiao.data", "w") as fp:
         time.sleep(1)
 
 
+print >> sys.stderr, "haha"
