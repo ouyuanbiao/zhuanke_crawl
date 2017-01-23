@@ -67,3 +67,4 @@ with open("./gaodengzhuanke_xuexiao.data", "w") as fp:
 
 
 print >> sys.stderr, "haha"
+print >> sys.stderr, "fuck"
